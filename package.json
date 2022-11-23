@@ -1,0 +1,17 @@
+{
+  "name": "karel-exec-workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blockly": "^5.20210325.1",
+    "canvas": "^2.10.2",
+    "jsdom": "^20.0.3"
+  }
+}
